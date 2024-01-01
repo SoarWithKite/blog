@@ -9,28 +9,28 @@ tagline: Java后端技术博客，积跬步以至千里，致敬每个爱学习�
 
 features: # 可选的
   - title: JAVA
-    details: JavaScript、ES6、Vue框架等前端技术
-    link: /web/ # 可选
+    details: Java基础、并发编程等
+    link: /JAVA/ # 可选
     imgUrl: /img/web.png # 可选
   - title: 云原生
     details: Linux/Docker，项目部署相关技术
     link: /deploy/
     imgUrl: /img/ui.png
   - title: Spring
-    details: 技术文档、教程、技巧、总结等文章
-    link: /pages/
+    details: Spring、Mybatis、SpringMvc等主流开发框架
+    link: /Spring/
     imgUrl: /img/other.png
   - title: 数据库
-    details: 技术文档、教程、技巧、总结等文章
+    details: 关系型数据库及非关系型数据库
     link: /database/
     imgUrl: /img/other.png
   - title: 中间件
-    details: 技术文档、教程、技巧、总结等文章
-    link: /database/
+    details: RabbitMq、RocketMq等消息中间件
+    link: /middleware/
     imgUrl: /img/other.png
   - title: 前端
-    details: 技术文档、教程、技巧、总结等文章
-    link: /database/
+    details: HTML、CSS、JavaScript、Vue前端技术
+    link: /web/
     imgUrl: /img/other.png
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
